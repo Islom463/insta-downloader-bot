@@ -1,3 +1,4 @@
-aiogram
-yt-dlp
+aiogram>=3.7,<4
 aiohttp
+yt-dlp[default,curl-cffi]
+imageio-ffmpeg
