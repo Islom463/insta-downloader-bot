@@ -1,4 +1,5 @@
 aiogram>=3.7,<4
 aiohttp
 yt-dlp[default,curl-cffi]
+gallery-dl
 imageio-ffmpeg
